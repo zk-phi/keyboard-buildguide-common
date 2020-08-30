@@ -1,4 +1,4 @@
-[もくじ](Readme.markdown)
+[< 記事一覧](Readme.markdown)
 
 # ファームウェアの書き込み
 
