@@ -16,3 +16,6 @@
 
 - ProMicro
   - [ファームウェア](firmware.markdown)
+
+- ダイオード
+  - [スルーホール](diode_tht.markdown)
