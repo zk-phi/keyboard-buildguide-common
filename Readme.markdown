@@ -15,6 +15,7 @@
 ## 記事一覧
 
 - [ファームウェアの書き込み](firmware.markdown)
+- [コンスルーの実装](conthrough.markdown)
 - [ダイオードの実装](diode.markdown)
 - [Neopixel LED の実装](neopixel.markdown)
 - [タクトスイッチ・ TRRS ジャックの実装](other_components.markdown)
