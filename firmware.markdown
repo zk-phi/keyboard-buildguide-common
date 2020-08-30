@@ -20,7 +20,7 @@
 
 Git を使って GitHub から QMK Firmware をダウンロードします。
 
-公式のリポジトリは [ここ](https://github.com/qmk/qmk_firmware/) ですが、私のキーボード用のファーウウェアは [こちら](https://github.com/zk-phi/qmk_firmware) の Fork にあります。
+公式のリポジトリは [ここ](https://github.com/qmk/qmk_firmware/) ですが、私のキーボード用のファームウェアは [こちら](https://github.com/zk-phi/qmk_firmware) の Fork にあります。
 
 ```terminal
 $ git clone https://github.com/zk-phi/qmk_firmware -o qmk_firmware_zk-phi
