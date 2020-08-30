@@ -14,8 +14,5 @@
 
 # TOC
 
-- ProMicro
-  - [ファームウェア](firmware.markdown)
-
-- ダイオード
-  - [スルーホール](diode_tht.markdown)
+- [ファームウェア](firmware.markdown)
+- [ダイオード](diode.markdown)
