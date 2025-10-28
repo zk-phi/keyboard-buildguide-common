@@ -2,7 +2,7 @@
 
 # タクトスイッチ・ TRRS ジャックの実装
 
-![other_marks](img/other_marks.jpg)![other_components](img/other_components.jpg)
+![other_marks](img/other_marks.png)![other_components](img/other_components.jpg)
 
 タクトスイッチは、ファームウェアを更新する時に、ProMicro を簡単に再起動できるようにするために使用します。
 
